@@ -5,8 +5,8 @@
 <img src="s1.png" width=700px height=500px>
 <br>
 <p>Conversion</p>
-<img src="s2.png" width=700px height=400px>
-<img src="s3.png" width=700px height=400px>
+<img src="s2.png" width=5500px height=400px>
+<img src="s3.png" width=5500px height=400px>
 
 
 
